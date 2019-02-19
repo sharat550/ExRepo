@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6E25-6CE3
+
+ Directory of C:\Users\Csharath\Desktop\MyProject
+
+19-02-2019  19:27    <DIR>          .
+19-02-2019  19:27    <DIR>          ..
+19-02-2019  19:15               391 index.html
+19-02-2019  19:14               363 test1.txt
+19-02-2019  19:27                 0 test2.txt
+               3 File(s)            754 bytes
+               2 Dir(s)  131,042,365,440 bytes free
